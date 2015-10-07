@@ -234,6 +234,11 @@
           "name": "puppet-ghostbuster",
           "url": "https://github.com/camptocamp/puppet-ghostbuster",
           "description": "Dead code detector for Puppet."
+        },
+        {
+          "name": "modulesync",
+          "url": "https://github.com/puppet-community/modulesync",
+          "description": "Synchronize common files between github module repositories."
         }
       ]
     }
